@@ -1,2 +1,2 @@
-A three layer program with DAO layer and PostrgreSQL implemented database that can peform simple CRUD operations
+A simple DAO example with PostrgreSQL implemented database using JDBC
 
